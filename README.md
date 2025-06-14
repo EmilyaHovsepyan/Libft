@@ -1,3 +1,9 @@
+# Libft
+
+![42 Project](https://img.shields.io/badge/42%20School-Project-blue)
+![Language](https://img.shields.io/badge/language-C-informational)
+![License](https://img.shields.io/badge/status-Completed-success)
+
 This project is part of the 42 curriculum. The goal is to re-implement standard C library functions from scratch, such as `strlen`, `memcpy`, and many others — with a strong focus on clean code, memory management, and understanding low-level behavior.
 
 ## 📄 Subject PDF
